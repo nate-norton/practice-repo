@@ -2,3 +2,4 @@
 - Regression
 - Bayes Theorm
 
+make changes
